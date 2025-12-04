@@ -149,28 +149,11 @@ REDIS_URL=redis://redis:6379
 
 # Rails Configuration
 SECRET_KEY_BASE=${SECRET_KEY_BASE}
-RAILS_ENV=production
 
 # BigBlueButton Configuration
 BIGBLUEBUTTON_ENDPOINT=https://bbb.senan.fr/bigbluebutton/
 BIGBLUEBUTTON_SECRET=1X37gsM6pGgBmf3x84CQ6BiknLcqsbIvxu8TAwdivk
 
-# Application Configuration
-RELATIVE_URL_ROOT=/
-
-# SMTP Configuration (optionnel)
-SMTP_SERVER=
-SMTP_PORT=587
-SMTP_DOMAIN=
-SMTP_USERNAME=
-SMTP_PASSWORD=
-SMTP_AUTH=plain
-SMTP_STARTTLS_AUTO=true
-SMTP_SENDER=noreply@greenlight.senan.fr
-
-# Optional: Brand Configuration
-BRANDING_IMAGE=
-PRIMARY_COLOR=
 EOF
 ```
 
