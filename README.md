@@ -11,6 +11,7 @@ Guide complet d'installation de BigBlueButton (backend) et Greenlight v3 (fronte
 - [Certificat SSL](#certificat-ssl)
 - [Création du compte administrateur](#création-du-compte-administrateur)
 - [Vérification](#vérification)
+- [Documentation utilisé](#Documentation-utilisé)
 
 ## 🔧 Prérequis
 
@@ -334,4 +335,13 @@ tail -f /var/log/nginx/error.log
 
 ---
 
-**📧 Support :** Pour toute question, contactez anthony.senan@laposte.net
+### Documentation utilisé
+
+- https://docs.bigbluebutton.org/administration/install/
+- https://github.com/bigbluebutton/bbb-install
+- https://docs.bigbluebutton.org/greenlight/v3/install/
+- https://ressources.labomedia.org/bigbluebutton_installation_configuration
+- https://github.com/bigbluebutton/greenlight/blob/master/sample.env (pour le .env)
+- https://github.com/bigbluebutton/greenlight/blob/master/docker-compose.yml (le docker-compose)
+- https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/ (reverse proxy nginx)
+- https://hub.docker.com/r/bigbluebutton/greenlight
