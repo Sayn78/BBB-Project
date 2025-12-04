@@ -343,6 +343,7 @@ tail -f /var/log/nginx/error.log
 - https://docs.bigbluebutton.org/greenlight/v3/install/
 - https://ressources.labomedia.org/bigbluebutton_installation_configuration
 - https://github.com/bigbluebutton/greenlight/blob/master/sample.env (pour le .env)
+- https://bigbluebutton.github.io/greenlight/gl-install.html (tutoriel installation Greenlight avec docker-compose + password methode pour PostgreSQLS)
 - https://github.com/bigbluebutton/greenlight/blob/master/docker-compose.yml (le docker-compose)
 - https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/ (reverse proxy nginx)
 - https://hub.docker.com/r/bigbluebutton/greenlight
